@@ -1,17 +1,35 @@
 <h1 align="center">:file_cabinet: QA Elevador</h1>
 
 ## :memo: Descrição
-Desafio Fullture para fazer uma Todo List com Login e Register Page
+Desafio Fullture: Transcrever partes de um documento formal que garante a qualidade de um sistema de elevador. A transcrição foi feita usando CucumberJs e JestJs ambas com as mesmas funções mas com ferramentas diferentes.
 
 ## :wrench: Tecnologias utilizadas
-* HTML;
-* CSS;
 * JavaScript;
+* CucuberJs;
+* JestJs;
 
 ## :rocket: Rodando o projeto
-Para rodar o repositório é recomendado acessar:
+Para rodar o repositório é recomendado rodar os seguintes comandos no terminal:
+<br>
+1º - Inicializar o git
 ```
-https://richard-passos.github.io/ToDo_List_Challenge/loginPage.html
+git init
+```
+2º - Clonar o projeto
+```
+git clone https://github.com/Richard-Passos/qa-elevator/edit/main/README.md
+```
+3º - Instalar dependências
+```
+npm i
+```
+4º - Rodar os testes em cucumber
+```
+npm run test-c
+``` 
+ou - Rodar os testes em jest
+```
+npm run test-j
 ```
 
 ## :handshake: Colaboradores
