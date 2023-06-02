@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: QA Elevador</h1>
 
 ## :memo: Descrição
-Desafio Fullture: Transcrever partes de um documento formal que garante a qualidade de um sistema de elevador. A transcrição foi feita usando CucumberJs e JestJs.
+Desafio Fullture: Transcrever partes de um documento formal que garante a qualidade de um sistema de elevador. Simulando funções de um elevador, tais como, fechar e abrir suas protas, ações em caso de emergência e locomoção entre andares. A transcrição foi feita usando CucumberJs e JestJs.
 
 ## :wrench: Tecnologias utilizadas
 * JavaScript;
