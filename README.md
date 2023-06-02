@@ -17,7 +17,7 @@ git init
 ```
 2º - Clonar o projeto
 ```
-git clone https://github.com/Richard-Passos/qa-elevator/edit/main/README.md
+git clone https://github.com/Richard-Passos/qa-elevator
 ```
 3º - Instalar dependências
 ```
