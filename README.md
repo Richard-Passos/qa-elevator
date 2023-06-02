@@ -19,11 +19,15 @@ git init
 ```
 git clone https://github.com/Richard-Passos/qa-elevator
 ```
-3º - Instalar dependências
+3º - Entrar na pasta do projeto
+```
+cd qa-elevator
+```
+4º - Instalar dependências
 ```
 npm i
 ```
-4º - Rodar os testes em cucumber
+5º - Rodar os testes em cucumber
 ```
 npm run test-c
 ``` 
