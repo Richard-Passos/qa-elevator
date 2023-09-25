@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Quality assurance elevator</h1>
+<h1 align="center">:file_cabinet: Elevator system</h1>
 
 <br>
 
