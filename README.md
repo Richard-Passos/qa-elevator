@@ -1,47 +1,54 @@
-<h1 align="center">:file_cabinet: QA Elevador</h1>
+<h1 align="center">:file_cabinet: Quality assurance elevator</h1>
 
-## :memo: Descrição
-Desafio Fullture: Transcrever partes de um documento formal que garante a qualidade de um sistema de elevador. Simulando funções de um elevador, tais como, fechar e abrir suas protas, ações em caso de emergência e locomoção entre andares. A transcrição foi feita usando CucumberJs e JestJs.
-
-## :wrench: Tecnologias utilizadas
-* JavaScript;
-* CucumberJs;
-* JestJs;
-
-## :rocket: Rodando o projeto
-Para rodar o repositório é recomendado rodar os seguintes comandos no terminal:
 <br>
-1º - Inicializar o git
-```
-git init
-```
-2º - Clonar o projeto
+
+## :memo: Description
+Transcrever partes de um documento formal que garante a qualidade de um sistema de elevador. Simulando funções de um elevador, tais como, fechar e abrir suas protas, ações em caso de emergência e locomoção entre andares. A transcrição foi feita usando Cucumber.js e Jest.js.
+
+<br>
+
+## :wrench: Technologies used
+* JavaScript
+* Cucumber.js
+* Jest.js
+
+<br>
+
+## :rocket: Run project
+01 - Clone repository
 ```
 git clone https://github.com/Richard-Passos/qa-elevator
 ```
-3º - Entrar na pasta do projeto
+
+02 - Enter project directory
 ```
 cd qa-elevator
 ```
-4º - Instalar dependências
+
+04 - Install dependecies
 ```
 npm i
 ```
-5º - Rodar os testes em cucumber
+
+### Now you can run the tests with Cucumber.js or Jest.js
+Run with Cucumber.js
 ```
 npm run test-c
-``` 
-ou - Rodar os testes em jest
+```
+
+Run with Jest.js
 ```
 npm run test-j
 ```
 
-## :handshake: Colaboradores
+<br>
+
+## :handshake: Team
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Richard-Passos">
-        <img src="https://img.freepik.com/vetores-premium/desenho-de-desenho-animado-de-um-programador_29937-8176.jpg" width="100px;" alt="Programador"/><br>
+        <img src="https://img.freepik.com/vetores-premium/desenho-de-desenho-animado-de-um-programador_29937-8176.jpg" width="100px;" alt="A boy with headphones holding a laptop."/><br>
         <sub>
           <b>Richard P</b>
         </sub>
@@ -50,5 +57,7 @@ npm run test-j
   </tr>
 </table>
 
-## :dart: Status do projeto
-Finalizado
+<br>
+
+## :dart: Status
+Finished
